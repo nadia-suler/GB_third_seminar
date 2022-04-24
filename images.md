@@ -1,0 +1,1 @@
+![Syktyvkar](Syktyvkar.jpg)
