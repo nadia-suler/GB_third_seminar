@@ -1,1 +1,2 @@
-![Syktyvkar](Syktyvkar.jpg)
+![Syktyvkar](image.jpg)
+Test
